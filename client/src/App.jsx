@@ -1,13 +1,13 @@
 import React from 'react'
 import Header from "./component/header_page/Header";
-import Hero from '../src/component/hero_page/Hero';
-import Signup from '../../../../signup/frontend/src/Signup_page/Signup'
+import Hero from './component/Hero/Hero';
+import About from './component/service_page/About'
 function App() {
   return (
     <div>
       <Header />
       <Hero />
-      <Signup />
+      <About />
     </div>
   );
 }

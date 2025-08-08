@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div-about-me h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(170, 96, 17);
+    
+} 
+.div-about-me p{
+     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+span{
+    font-size: 30px;
+    color: rgb(239, 146, 54);
+}

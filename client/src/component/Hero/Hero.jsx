@@ -1,5 +1,5 @@
 import React from 'react'
-import './hero.css'
+import './Hero.css'
 import logo from '../../assets/image_folder/portfolio logo.png'
 function Hero() {
   return (
