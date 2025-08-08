@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+     .div-all{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+     }
+
+.div-portfolio .div-name h1{
+    color: aliceblue;
+}
+.div-portfolio .div-name span{
+    color: rgb(200, 4, 82);
+}
+.div-portfolio .div-name{
+margin: 0 auto;
+}
+.div-discribtion p{
+    color: aliceblue;
+    font-size: 20px;
+
+}
+.div-img img{
+   
+    border-radius: 50%;
+    height: 350px;
+}
+.contact-resume{
+    display: flex;
+    gap: 80px;
+}
+.contact-resume h2{
+  background-color: rgb(255, 80, 232);
+  border: 2px dashed;
+  border-radius: 40px;
+  padding: 10px;
+}
+.contact-resume h3{
+     color: aliceblue;
+  border: 2px dashed;
+  border-radius: 40px;
+  padding: 10px;
+}
+.contact-resume h2:hover{
+    background-color: darkorange;
+}
+.contact-resume h3:hover{
+    background-color: aqua;
+}
