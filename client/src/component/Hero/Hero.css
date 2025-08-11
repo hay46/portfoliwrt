@@ -21,7 +21,11 @@
 
    
 .div-portfolio .div-name span{
-    color: rgb(168, 245, 1);
+   background: linear-gradient(267deg, #B923E1 0.36%, #DA7C25); /* Reverse gradient */
+   border-radius: 20px;
+}
+.div-portfolio .div-name span :hover{
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1);
 }
 .div-portfolio .div-name{
 margin: 0 auto;

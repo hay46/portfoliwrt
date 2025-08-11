@@ -1,8 +1,8 @@
-import React from 'react'
-import './About.css'
+import React from "react";
+import "./About.css";
 function About() {
   return (
-    <div className="div-service">
+    <div className="div-About">
       <div className="div-about-me">
         <h1>about me</h1>
         <p>
@@ -26,4 +26,4 @@ function About() {
     </div>
   );
 }
-export default About
+export default About;
