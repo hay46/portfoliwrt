@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import logo from '../../assets/image_folder/portfolio logo.png'
+import logo from '../../assets/image_folder/haymanot-photo.jpg'
 function Hero() {
   return (
     <div className="div-portfolio">

@@ -33,7 +33,7 @@ margin: 0 auto;
 .div-discribtion p{
     color: aliceblue;
     font-size: 26px;
-
+    background-color: rgb(5, 69, 69);
 }
 .div-img img{
    
@@ -45,20 +45,20 @@ margin: 0 auto;
     gap: 90px;
 }
 .contact-resume h2{
-  background-color: rgb(228, 244, 2);
+background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1);
   border: 2px dashed;
   border-radius: 40px;
   padding: 10px;
 }
 .contact-resume h3{
-     color: aliceblue;
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1);
   border: 2px dashed;
   border-radius: 40px;
   padding: 10px;
 }
 .contact-resume h2:hover{
-    background-color: darkorange;
+background: linear-gradient(267deg, #B923E1 0.36%, #DA7C25);
 }
 .contact-resume h3:hover{
-    background-color: rgb(255, 0, 123);
+background: linear-gradient(267deg, #B923E1 0.36%, #DA7C25);
 }

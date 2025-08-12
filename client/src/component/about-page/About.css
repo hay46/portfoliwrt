@@ -7,16 +7,18 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    color: rgb(170, 96, 17);
+    color: rgb(255, 255, 254);
     
 } 
 .div-about-me p{
      display: flex;
     flex-direction: column;
     justify-content: space-between;
+    color: aliceblue;
+    line-height: 1.5;
 
 }
 span{
     font-size: 30px;
-    color: rgb(239, 146, 54);
+    color: rgb(242, 240, 238);
 }

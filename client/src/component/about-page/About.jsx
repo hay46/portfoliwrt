@@ -8,9 +8,9 @@ function About() {
         <p>
           I'm a passionate Full-Stack Developer with a knack for building <br />
           seamless digital experiences from front-end finesse to back-end <br />
-          muscle. With a strong foundation in both client-side and server-side{" "}
+          muscle. With a strong foundation in both client-side and server-side
           <br />
-          technologies, I thrive on turning complex problems into elegant,{" "}
+          technologies, I thrive on turning complex problems into elegant,
           <br />
           scalable solutions.
           <h1> 🔧 Tech Stack Highlights</h1>
